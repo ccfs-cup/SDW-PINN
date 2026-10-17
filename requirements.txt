@@ -1,0 +1,11 @@
+# Python 3.9.25; direct dependencies for the PyTorch cases and field/analysis tools.
+# For fully pinned transitive dependencies, use requirements-lock.txt.
+torch==2.5.1
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+matplotlib==3.9.2
+seaborn==0.13.2
+openpyxl==3.1.5
+scikit-learn==1.6.1
+gstools==1.6.1

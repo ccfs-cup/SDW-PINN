@@ -1,0 +1,9 @@
+name: sdw-pinn
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.9.25
+  - pip=23.0.1
+  - pip:
+      - -r requirements-lock.txt

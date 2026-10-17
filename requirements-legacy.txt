@@ -1,0 +1,5 @@
+# Optional imports used by random_field_generation/tgnn1_succ.py.
+# That script also needs the absent local makedata module and external input data.
+-r requirements.txt
+tensorflow==2.18.0
+pyDOE==0.3.8
